@@ -3,3 +3,5 @@ Colors are
 Blue
 Red
 Yellow
+Green
+White
