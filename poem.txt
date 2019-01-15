@@ -1,1 +1,5 @@
 RainBow is colourful ...
+Colors are 
+Blue
+Red
+Yellow
